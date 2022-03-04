@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Mujadid1/Mujadid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mujadid/Mujadid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
